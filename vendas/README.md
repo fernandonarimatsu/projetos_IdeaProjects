@@ -1,1 +1,1 @@
-Testando alterações 
+Testando alterações de application.properties
