@@ -1,1 +1,1 @@
-Testando alterações de application.properties
+Este é um exercicio de SpringBoot da Udemy, usando a IDE Intellij.
